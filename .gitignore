@@ -1,0 +1,4 @@
+test_images/*
+logs
+.vscode
+*.h5
